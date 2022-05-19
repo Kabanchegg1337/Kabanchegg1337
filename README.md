@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dudchenko denis!
+- 👋 Hi, I’m Dudchenko Denis!
 - 👀 I’m interested in creating software that improves the lives of those around me.
 - 🌱 I’m currently learning WebGL, three.js
 
